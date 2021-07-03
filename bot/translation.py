@@ -5,9 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just ഞാൻ @SearchYourMovies എന്നാ ഗ്രൂപ്പിന്റെ ബോട്ട് ആണ് നിങ്ങൾക്കു എന്നെ യൂസ് ചെയ്യാൻ പറ്റില്ല 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me JOIN NOW @CinemaCompaney21
 
 For More Details Click Help Button Below..
 @CrazyBotsz
