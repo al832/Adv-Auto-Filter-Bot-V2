@@ -5,20 +5,20 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am നിങ്ങൾ ഇതുവരെ എന്റെ ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്തട്ടില്ല ജോയിൻ ചെയ്യുക @SearchYourMovies 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+/start കൊടുത്താൽ സിനിമ കിട്ടും.... @CinemaCompaney21
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+For More Details  join @CinemaCompaney21 
+@SearchYourMovies 
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>JOIN AND TRY!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> @SearchYourMovies 
+-> @CinemaCompaney21
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
